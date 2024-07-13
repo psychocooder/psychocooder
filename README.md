@@ -8,11 +8,6 @@
   <img src="https://cdn.discordapp.com/attachments/1203446968098095165/1260821458314334218/image.png?ex=6690b6fc&is=668f657c&hm=d1a3fadf27a0d625eb2de7777bd84ecc1aef2356a85ce33d48248a959187c6aa&" alt="Imagem">
 </p>
 
-<!-- Social Links -->
-<div align="center">
-  <a href="https://t.me/psychocooder"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" target="_blank"></a>
-</div>
-
 <!-- GitHub Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=psychocooder&show_icons=true&theme=gotham" alt="VariableBee GitHub stats">
