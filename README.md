@@ -11,8 +11,6 @@
 <!-- Social Links -->
 <div align="center">
   <a href="https://t.me/psychocooder"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/psychocooder"><img src="https://img.shields.io/badge/OnlyFans-%2300AFF0.svg?style=flat&logo=onlyfans&logoColor=white&link=https://t.me/psychocooder" target="_blank"></a>
-  <a href="https://t.me/psychocooder"><img src="https://img.shields.io/badge/Xvideos-%23FF0000.svg?style=flat&logo=xvideos&logoColor=white&link=https://t.me/psychocooder" target="_blank"></a><br><br>
 </div>
 
 <!-- GitHub Stats -->
